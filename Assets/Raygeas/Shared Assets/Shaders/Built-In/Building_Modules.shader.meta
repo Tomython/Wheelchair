@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c87733ca930adce42b058f08027150a3
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _OverlayMask: {fileID: 2800000, guid: 1c37632da4539e94397a93db7998a959, type: 3}
+  - _HeightMask: {fileID: 2800000, guid: 7516c543d04386a4e986cb427978a4db, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 340990
+  packageName: Lakefell Village
+  packageVersion: 1.0
+  assetPath: Assets/Raygeas/Shared Assets/Shaders/Built-In/Building_Modules.shader
+  uploadId: 809624
